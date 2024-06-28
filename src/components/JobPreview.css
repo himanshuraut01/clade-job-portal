@@ -1,0 +1,16 @@
+/* src/components/JobPreview.css */
+.job-preview {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .job-details, .company-details {
+    margin-top: 20px;
+  }
+  
+  .job-stats {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
